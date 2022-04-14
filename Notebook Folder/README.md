@@ -1,1 +1,1 @@
-This folder contains the code for data collection as well as the result data files.
+This folder contains the main python notebook ***Notebook.ipynb*** for the coding bit of the project and the diagram files within that notebook.
