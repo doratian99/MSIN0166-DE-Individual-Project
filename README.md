@@ -15,3 +15,6 @@ This folder contains the schema files including the .sql schema code and the com
 
 ### API Keys.md
 This is where I record my own API tokens.
+
+### MSIN0166 Individual Report.pdf
+The summary of work (4000 words report uploaded on Moodle)
