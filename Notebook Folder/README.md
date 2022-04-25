@@ -6,7 +6,8 @@ This folder contains the main python notebook ***Notebook.ipynb*** for the codin
 
 ### Notebook.ipynb
 
-This notebook contains the code of this assignment
+This notebook contains the code of this assignment.
+
 
 **The following files are the diagrams contained in the Notebook.**
 
