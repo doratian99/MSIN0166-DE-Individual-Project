@@ -9,7 +9,7 @@ This folder contains the main python notebook ***Notebook.ipynb*** for the codin
 This notebook contains the code of this assignment.
 
 
-**The following files are the diagrams contained in the Notebook.**
+**The following files are the diagrams contained in the Notebook:**
 
 cover_photo.jpg
 
