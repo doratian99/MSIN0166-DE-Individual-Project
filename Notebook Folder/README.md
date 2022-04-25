@@ -8,14 +8,17 @@ This folder contains the main python notebook ***Notebook.ipynb*** for the codin
 
 This notebook contains the code of this assignment
 
-### musixmatch_df.csv
-Lyrics dataset scraped from MusixMatch.
+**The following files are the diagrams contained in the Notebook.**
 
-### spotify_df.csv
-Music information dataset scraped from Spotify.
+cover_photo.jpg
 
-### twitter_df.csv
-Tweets dataset scraped from Twitter.
+database_table.png
 
-### youtube_df.csv
-Youtube popularity dataset scraped from YouTube.
+featured_playlists.png
+
+schema_code.png
+
+schema_diagram.png
+
+schema_init.png
+
